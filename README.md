@@ -41,7 +41,10 @@ SKILLS ☄️
 ![VISUAL_STUDIO_CODE](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?logo=VisualStudioCode&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/-Windows-0078D4?logo=Windows&logoColor=white)
 
-![giphy](https://github.com/RedRibbon990/RedRibbon990/assets/144163977/b709985e-5d58-4dc4-ab48-4b395816fff1)
+<p align="center">
+  <img src="https://github.com/RedRibbon990/RedRibbon990/assets/144163977/b709985e-5d58-4dc4-ab48-4b395816fff1" alt="giphy">
+</p>
+
 
 <h1 align="center">
 CONTACT ME 📬
